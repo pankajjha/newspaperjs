@@ -2,7 +2,7 @@ const { Article } = require('./index.js');
 
 (async () => {
   const urlArray = [
-    'https://www.nytimes.com/live/2022/04/11/world/ukraine-russia-war-news',
+    'https://www.bbc.com/news/uk-england-nottinghamshire-60290773',
     //  "https://www.nytimes.com/2022/04/10/world/asia/ukraine-draft-dodgers.html",
     //  "https://www.nytimes.com/2022/04/10/world/europe/volunteer-bus-drivers-refugees-ukraine.html",
     //  "https://www.nytimes.com/2022/04/10/business/mackenzie-scott-charity.html",
